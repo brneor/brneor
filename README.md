@@ -1,1 +1,1 @@
-[![brneor's GitHub stats](https://github-readme-stats.vercel.app/api?username=brneor&count_private=true&show_icons=true&bg_color=1F1F28&text_color=DCD7BA&title_color=7E9CD8&icon_color=E6C384&border_color=C8C093)](https://github.com/anuraghazra/github-readme-stats)
+
